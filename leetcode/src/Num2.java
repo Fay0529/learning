@@ -23,6 +23,7 @@ public class Num2 {
                 l2 = l2 == null ? null : l2.next;
             }
             if (c == 1) {
+                // 说明最高位进位
                 current.next = new ListNode(1);
             }
             return res.next;
