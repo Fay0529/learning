@@ -1,4 +1,4 @@
-public class LongestSubstringWithoutRepeatingCharacters {
+public class Num3 {
     class Solution {
         /**
          * 问题思路，设两个指针i,j,curtLen记录当前的子串长度
