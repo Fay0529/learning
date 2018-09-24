@@ -1,4 +1,4 @@
-public class AddTwoNumbers {
+public class Num2 {
     public class ListNode {
         int val;
         ListNode next;

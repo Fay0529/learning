@@ -1,9 +1,8 @@
-import java.lang.reflect.Array;
 import java.util.Arrays;
 import java.util.LinkedList;
 import java.util.List;
 
-public class ThreeSum {
+public class Num15 {
     /**
      * 思路：O(n*n)算法，首先对给定序列进行排序，然后是双重循环
      * 第一层循环确定三个数中的第一个，第二重循环确定另外两个
@@ -57,8 +56,8 @@ public class ThreeSum {
         }
     }
     public static void main(String []args) {
-        ThreeSum threeSum = new ThreeSum();
-        ThreeSum.Solution s = threeSum.new Solution();
+        Num15 num15 = new Num15();
+        Num15.Solution s = num15.new Solution();
         int []array = {-1, 0, 1, 2, -1, -4};
 
         List<List<Integer>> l = s.threeSum(array);

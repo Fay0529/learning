@@ -1,4 +1,4 @@
-public class ContainerWithMostWater {
+public class Num11 {
     /**
      * 思路：O(n)算法：
      * 两个指针分别指向最左边和最右边的竖线，刚开始桶的宽度是最大的

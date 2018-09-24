@@ -1,4 +1,4 @@
-public class LongestPalindromicSubstring {
+public class Num5 {
     class Solution {
         public String longestPalindrome(String s) {
             /**
